@@ -1,0 +1,9 @@
+.build/
+private/
+.gnupg/
+gnupg/
+.env
+*.key
+*.pem
+*.p12
+*.pfx

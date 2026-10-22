@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: KALQOR OS
+Label: KALQOR OS Updates
+Suite: kalqor
+Codename: kalqor
+Date: Thu, 22 Oct 2026 16:02:00 GMT
+Valid-Until: Sat, 21 Nov 2026 16:02:00 GMT
+Architectures: amd64
+Components: main
+Description: Signed KALQOR OS custom-package updates
+Acquire-By-Hash: yes
+SHA256:
+ e67a82008edd5c595a75820c27d5cea6943dafc426420f7c45b92143e05efd41              619 main/binary-amd64/Packages
+ c0f4ac1552de89206757ea5829f282097083bd3e34eb12bad47427e601cbcb2a              440 main/binary-amd64/Packages.gz
+SHA512:
+ fb66f6e1f78a304bf91a85879ba07741aa6791cca98e1943329505fd5ef736abca812944fc0f73d4ebc6fdb1a3d0928ad5f3f292604ce9db457d0e362158fc71              619 main/binary-amd64/Packages
+ 7c9b9376d1fa700584bda1531e8fb199ad7835ce412ef08fe70b8eb3d2b11a9c294e7eb8d67f78cb45b0e3a8237f51470c656b65c97afc02abe373221b15aad9              440 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEp9eFllmHE5DHy+7qrUIqB9Cq5ncFAmraM3gACgkQrUIqB9Cq
+5neNLgv/Q4UNY3z40avO5BGjF0lSwSjWizEzqePUfvBTpgZYVMpwoghGdl+9y6S1
+vZXaF0rWiMiQ7bI3W2dB7kbYNtmX9iHtaqf5g+zq+WRwW+BmKzLZ/G1WT7J2LxhI
+i4V+xLkyx5xxeZR8rZZ/QYuEpJMS+4HwtQrM7orH8BLNXIwpRyEvzB90som40k5q
+xSytL0JpjHi2VR1LkqPnq+ZVLWsSvRBsWfysdxqFJYQd5nIKiOe23XU651SgBPJZ
+cr6BY0rJRLd9BsWAESE9Anyp2kmHPR3zvoFB+QXoepVwtRSuYuPoJaUFZOIfRtNW
+c5NPLzm73fexDYeFZbnuzWGPWbXb0OrVPykcQYPa4prsaJI+pMJ5C3ofBcyphX7u
+naN4/JxATTmJMoBWna+bPRA11eTfaC290PlW7SpzD34bsVP7EFpRHqfxJ67Gwgid
+8XzzGyH4aDO3DnF1BvPO5Eq4jD6IXLDRpA7204jd+vsyF4B9VN1pEDu9Zd2c6N3U
+RdcAT4di
+=5iVS
+-----END PGP SIGNATURE-----
