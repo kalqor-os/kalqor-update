@@ -13,3 +13,18 @@ SHA512: 98e17618cd431b8569d841114b4d0c8544a8f4688e33d2cb05c608f171bed36bee1d54bf
 Description: KALQOR OS update-channel marker
  A small package used to verify signed KALQOR package delivery.
 
+Package: kalqor-release
+Architecture: all
+Version: 0.1.0~preview2
+Priority: optional
+Section: misc
+Maintainer: Balaji Sangana
+Filename: pool/main/k/kalqor-release/kalqor-release_0.1.0~preview2_all.deb
+Size: 880
+MD5sum: 8fa09ab9a545cade679e9dd3a2f4d7f0
+SHA1: 0989f340dc16fc75a58c397e087f3780f3be0481
+SHA256: 603339dd89e7263c3e6b2e180fa5034bc9fc16509cca13d7a951947911ec8a6a
+SHA512: 1b9f7d9ca90b17a15dd9e9e9a3e947b9b31c36073130407f8e5e63fc115bada5ad0e07469c1dc6cf399cf0524ffeeaa8f1c74fac27da41f3a804a819da5354d7
+Description: KALQOR OS update-channel marker
+ A small package used to verify signed KALQOR package delivery.
+

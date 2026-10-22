@@ -5,29 +5,29 @@ Origin: KALQOR OS
 Label: KALQOR OS Updates
 Suite: kalqor
 Codename: kalqor
-Date: Thu, 22 Oct 2026 16:02:00 GMT
-Valid-Until: Sat, 21 Nov 2026 16:02:00 GMT
+Date: Thu, 22 Oct 2026 16:16:41 GMT
+Valid-Until: Sat, 21 Nov 2026 16:16:41 GMT
 Architectures: amd64
 Components: main
 Description: Signed KALQOR OS custom-package updates
 Acquire-By-Hash: yes
 SHA256:
- e67a82008edd5c595a75820c27d5cea6943dafc426420f7c45b92143e05efd41              619 main/binary-amd64/Packages
- c0f4ac1552de89206757ea5829f282097083bd3e34eb12bad47427e601cbcb2a              440 main/binary-amd64/Packages.gz
+ e158a90db3d7d694683da70d630fd319c8934aff2378d3b715ff34c27943c0e7             1238 main/binary-amd64/Packages
+ b05ffacbefe89fa675c867b2b24111840f19f7068a6e7cf4804c5214abeadffc              624 main/binary-amd64/Packages.gz
 SHA512:
- fb66f6e1f78a304bf91a85879ba07741aa6791cca98e1943329505fd5ef736abca812944fc0f73d4ebc6fdb1a3d0928ad5f3f292604ce9db457d0e362158fc71              619 main/binary-amd64/Packages
- 7c9b9376d1fa700584bda1531e8fb199ad7835ce412ef08fe70b8eb3d2b11a9c294e7eb8d67f78cb45b0e3a8237f51470c656b65c97afc02abe373221b15aad9              440 main/binary-amd64/Packages.gz
+ 52e34a448131b11e64179409cedfbcf7c6a8c6e0db9252ed9ec2c29a156c9687b5d9179b4b64bf77aef02c738055aefde37350be61fa95932e7ad7ac5859e9f6             1238 main/binary-amd64/Packages
+ a8316aae811b893bac5cf8562ec4e2e0c8e1edef949b90e2d5826e79191e351b92082c95471a367decf4c726c4774cee807090084eb7b11750409184e9ef6e39              624 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEp9eFllmHE5DHy+7qrUIqB9Cq5ncFAmraM3gACgkQrUIqB9Cq
-5neNLgv/Q4UNY3z40avO5BGjF0lSwSjWizEzqePUfvBTpgZYVMpwoghGdl+9y6S1
-vZXaF0rWiMiQ7bI3W2dB7kbYNtmX9iHtaqf5g+zq+WRwW+BmKzLZ/G1WT7J2LxhI
-i4V+xLkyx5xxeZR8rZZ/QYuEpJMS+4HwtQrM7orH8BLNXIwpRyEvzB90som40k5q
-xSytL0JpjHi2VR1LkqPnq+ZVLWsSvRBsWfysdxqFJYQd5nIKiOe23XU651SgBPJZ
-cr6BY0rJRLd9BsWAESE9Anyp2kmHPR3zvoFB+QXoepVwtRSuYuPoJaUFZOIfRtNW
-c5NPLzm73fexDYeFZbnuzWGPWbXb0OrVPykcQYPa4prsaJI+pMJ5C3ofBcyphX7u
-naN4/JxATTmJMoBWna+bPRA11eTfaC290PlW7SpzD34bsVP7EFpRHqfxJ67Gwgid
-8XzzGyH4aDO3DnF1BvPO5Eq4jD6IXLDRpA7204jd+vsyF4B9VN1pEDu9Zd2c6N3U
-RdcAT4di
-=5iVS
+iQGzBAEBCAAdFiEEp9eFllmHE5DHy+7qrUIqB9Cq5ncFAmraNukACgkQrUIqB9Cq
+5ndu6Av/Tyy3g3tblUnlAgU1F6ORaHMAAdb48YvnvGd309/UxEltKJSygwmB5yC1
+0GJ7mSWdDyfs+RyiUWVWoshs+IraHHv+kVtl6/X0J8dnJIvb9l7xkNLp0diHX2dx
++IOFbo9JVihIn8eA+BQEXlEc3fZyerLeBB5Cprt2xE0HR8x182g3HPXNE/xOm6J2
+c3k+AAxu3Trr+UeYcxuC5H4tnCMNVC89FUYJvpuD1sq7kSgZnHrwcoExPsoSfsv2
+pa9b7uHDmLj9WbcbpC0xztNPUyf8+QBaLJrGItD8jEMWfeD3byytpyuVEnP4hYzE
+PaBCWFR3Mcn2n33Z1WgiIbtoaXElD17U1JbbyolMa669cRvMv2wQgF7q8job4WXY
+GCrF4Vhl4z/qrGTVC1Lj5siiPv9A4VsgycQjbpu1H2LqfJfX3ic09quL2LwGvs00
+BRZ0D4t7qWr62dAvg3XM0HV2NlDz6Df6mRX1gfs8DIf+ydchQZ68oMNOkIpr2UM7
+2SGfm+HA
+=DEtt
 -----END PGP SIGNATURE-----
