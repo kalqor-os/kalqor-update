@@ -5,8 +5,8 @@ Origin: KALQOR OS
 Label: KALQOR OS Updates
 Suite: kalqor
 Codename: kalqor
-Date: Thu, 22 Oct 2026 17:24:15 GMT
-Valid-Until: Sat, 21 Nov 2026 17:24:15 GMT
+Date: Thu, 22 Oct 2026 17:30:22 GMT
+Valid-Until: Sat, 21 Nov 2026 17:30:22 GMT
 Architectures: amd64
 Components: main
 Description: Signed KALQOR OS custom-package updates
@@ -19,15 +19,15 @@ SHA512:
  4ce271df8c537d5313be1e7f3081a0e5b0b02f58aa19a306e624c4adc0e132725657ad753c84adfdd6ff58e5f52f9d51f8e7c4c1aa3fac9062df6fe9a0380861              949 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEp9eFllmHE5DHy+7qrUIqB9Cq5ncFAmraRr8ACgkQrUIqB9Cq
-5ne5lgv8DZF9X3ROF7wwAR+l6JZjdcdZT6YBFfeJu/KSuhOTx06mijawQXtKUao5
-3RpM069QpYoFiqQ/GiFUEhNbYrfBWEi4pzVql/8iYoWpuI0+wj/qc2BDnquakIsx
-UiZ3KnJd3ijILz30JLugmu4tP8nIX2UoejqNgzL0mEgwRj/7oIMPG3aNEQ9XJreJ
-ThkIomeL0NuxmHiSCBgolg8AaeMHfYvIvwzO2b2QRQb1vgfdd8UOjZb14ZUkmbUM
-eFhXNy4ke4q/jPe4Ze9gfHnEi3vrybXZEwkr2aUwaDYF5uqWl8Ix0nWWQcsDOVy0
-VERmbe8P25xleoiumQI0Zbz3OAQUpRmzI53rrL0BEX5wZQxrZELM7dSykNj25v6Z
-lg+AyD6V2Ev5nKihBBwIje+EIV6dwcZpPAz/10fUSTewGibdLlm/4u4pdiw95pjj
-sBZZI+c2CwXFOG+Lhu5O3KrybpSUPWotjWyIFfr9ep6mXCHnITZ54afdrbEIkIWr
-Z9TOnHRG
-=Az1C
+iQGzBAEBCAAdFiEEp9eFllmHE5DHy+7qrUIqB9Cq5ncFAmraSC4ACgkQrUIqB9Cq
+5nfe6Av+ONTtMFNBD0hMJsnXSkhdvhwKeIEys2c0ckvoULqyrPHOI3CMPNF2+uCp
+rGHX0jy9cVsgqW/oWYThkuMD5gGCGmc8RP/nHdlbSv6K4BtFUQsAsJSA/CvoWzLq
+sBogifkgmQIk0N3SZhLNJ8Viq3tZuEYAx2dQFFEZAggB6ydRJyALoVvDfKnKrtFD
+3j/quCvS1X0YviXODXptxyD2fFTNtuyL0ZYEdNAUTTxm293NWDHQSySCvlcPmZkB
+9cHf0UII8aASF4jpVIVOeZeU01T1AqrvtGrs54mQInkWYF0mR+q3UkDGdiCW7IOs
+GWaQX65sd6mgPR39QjVzfAYBFW/QK4P141o9dSqyyID9pUnm2Rt+P8ATvUaSXp0A
+jXKa337Ei7fptbLLD7YCfWod41A7msFSX1Y44n+EwFV6LJmDyBkfq9AMIljyiI/j
+0IqpdApL66guI/NlCm+KC+UmAzPGb+iAWheZvazDw04xhc8kTr4qHm46RKpA6isS
+9KdZZ3Vs
+=/l4z
 -----END PGP SIGNATURE-----
