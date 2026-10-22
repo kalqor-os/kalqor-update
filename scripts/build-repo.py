@@ -71,8 +71,20 @@ def build(args):
             'Description: KALQOR OS update-channel marker\n'
             ' A small package used to verify signed KALQOR package delivery.\n')
         (pkg / 'usr/share/kalqor/release-info').write_text('KALQOR OS\nUpdate channel: kalqor\nPackage version: ' + args.version + '\n')
+        # Explicit package permissions, independent of the shell umask.
+        pkg.chmod(0o755)
+        for item in pkg.rglob('*'):
+            item.chmod(0o755 if item.is_dir() else 0o644)
         marker = Path(tmp) / 'kalqor-release.deb'
-        run(['dpkg-deb', '--root-owner-group', '--build', pkg, marker], stdout=subprocess.DEVNULL, env={**os.environ, 'SOURCE_DATE_EPOCH': '1700000000'})
+        # Reuse the published marker when refreshing metadata.
+        existing_marker = (
+            stage / 'pool/main/k/kalqor-release'
+            / f'kalqor-release_{args.version}_all.deb'
+        )
+        if existing_marker.is_file():
+            marker = existing_marker
+        else:
+            run(['dpkg-deb', '--root-owner-group', '--build', pkg, marker], stdout=subprocess.DEVNULL, env={**os.environ, 'SOURCE_DATE_EPOCH': '1700000000'})
         for package in [marker] + [Path(p).expanduser().resolve() for p in args.add]:
             if not package.is_file() or package.is_symlink():
                 raise SystemExit(f'Not a regular package file: {package}')
