@@ -1,0 +1,46 @@
+Package: kalqor-branding
+Architecture: all
+Version: 0.1.0~preview1
+Priority: optional
+Section: x11
+Maintainer: Balaji Sangana <balajisangana7321@gmail.com>
+Depends: plymouth, plymouth-themes, lxqt-system-theme
+Filename: pool/main/k/kalqor-branding/kalqor-branding_0.1.0~preview1_all.deb
+Size: 7308924
+MD5sum: b6e07236203b2457a9ad4cb5470ae69a
+SHA1: 6235a2390e2802376079930d6ea101f3205d4b36
+SHA256: fa56a776b82a236b3adcb104ee75c7a0ca517d10feee05f3a6bcbbc531247c1b
+SHA512: 68afbaf0fe7e478f35708e416d42c9862931ed71f3b272b682f987382f7053dddf456add40ac18b6de886531ca16f80cc3b70f5d82da75674fbf8d145ab31a12
+Description: KALQOR OS artwork and protected desktop branding
+ Dedicated login, boot and desktop artwork, with diverted LXQt logos.
+
+Package: kalqor-release
+Architecture: all
+Version: 0.1.0~preview1
+Priority: optional
+Section: misc
+Maintainer: Balaji Sangana
+Filename: pool/main/k/kalqor-release/kalqor-release_0.1.0~preview1_all.deb
+Size: 880
+MD5sum: 3c66f4b11f6980287b271b73e2f7ef93
+SHA1: 450a755cd00eb9fccc514ba51db323b92595a50c
+SHA256: 88bb788179a4fce3b64abbc1db30be6725d9ecf706c0d44efb29176b1d6d00ea
+SHA512: 98e17618cd431b8569d841114b4d0c8544a8f4688e33d2cb05c608f171bed36bee1d54bf4250262831a0f73005dda10672ed822fa16f6aa197e835c1bf391098
+Description: KALQOR OS update-channel marker
+ A small package used to verify signed KALQOR package delivery.
+
+Package: kalqor-release
+Architecture: all
+Version: 0.1.0~preview2
+Priority: optional
+Section: misc
+Maintainer: Balaji Sangana
+Filename: pool/main/k/kalqor-release/kalqor-release_0.1.0~preview2_all.deb
+Size: 880
+MD5sum: 8fa09ab9a545cade679e9dd3a2f4d7f0
+SHA1: 0989f340dc16fc75a58c397e087f3780f3be0481
+SHA256: 603339dd89e7263c3e6b2e180fa5034bc9fc16509cca13d7a951947911ec8a6a
+SHA512: 1b9f7d9ca90b17a15dd9e9e9a3e947b9b31c36073130407f8e5e63fc115bada5ad0e07469c1dc6cf399cf0524ffeeaa8f1c74fac27da41f3a804a819da5354d7
+Description: KALQOR OS update-channel marker
+ A small package used to verify signed KALQOR package delivery.
+

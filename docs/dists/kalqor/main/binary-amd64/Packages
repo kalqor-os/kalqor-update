@@ -1,3 +1,19 @@
+Package: kalqor-branding
+Architecture: all
+Version: 0.1.0~preview1
+Priority: optional
+Section: x11
+Maintainer: Balaji Sangana <balajisangana7321@gmail.com>
+Depends: plymouth, plymouth-themes, lxqt-system-theme
+Filename: pool/main/k/kalqor-branding/kalqor-branding_0.1.0~preview1_all.deb
+Size: 7308924
+MD5sum: b6e07236203b2457a9ad4cb5470ae69a
+SHA1: 6235a2390e2802376079930d6ea101f3205d4b36
+SHA256: fa56a776b82a236b3adcb104ee75c7a0ca517d10feee05f3a6bcbbc531247c1b
+SHA512: 68afbaf0fe7e478f35708e416d42c9862931ed71f3b272b682f987382f7053dddf456add40ac18b6de886531ca16f80cc3b70f5d82da75674fbf8d145ab31a12
+Description: KALQOR OS artwork and protected desktop branding
+ Dedicated login, boot and desktop artwork, with diverted LXQt logos.
+
 Package: kalqor-release
 Architecture: all
 Version: 0.1.0~preview1
